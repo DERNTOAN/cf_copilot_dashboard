@@ -1,0 +1,5 @@
+# Dashboard
+streamlit~=1.55
+plotly~=6.6
+requests~=2.32
+pandas~=2.3
